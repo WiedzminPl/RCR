@@ -155,7 +155,48 @@ local Reports = {
   },
   
   miscellaneous = {  
-    00000000, --
+    331031293, --iambIizzard 
+    2482335274, --ChicagoShiesty
+    1921575422, --Klemensillium 
+    278657106, --Sethwyd 
+    542920835, --KineticRapture 
+    424143484, --xenoyxy 
+    598796904, --FrankieVeteran 
+    108990047, --friskopia 
+    1566289483, --HasanKerzeus 
+    102108028, --DasPariet 
+    329655368, --OmegonKaddin 
+    62276197, --S_39 
+    189260070, --vVibinv 
+    861500704, --VanityKaddin 
+    137247575, --Zar0xz 
+    1717421134, --Painted_Internal 
+    3868786834, --StarsFederation 
+    258281158, --PokeTheAdministrator 
+    17147722, --Gigazic 
+    314088168, --Lumeinos 
+    27768481, --RickArkyn 
+    529930279, --SharpCheddar_GCR 
+    51693059, --v_brr 
+    137247575, --Zar0xz 
+    4670621280, --Byeception 
+    687973611, --CO_RVUS 
+    996959166, --evis2026 
+    318765001, --PlocKynx 
+    255267, --seba123 
+    3328860845, --vampsteals 
+    1784405693, --14kIsabxlle 
+    1501175750, --Z_3ROTWO 
+    60691813, --Mikey_Streams 
+    405249763, --AronCalovetral 
+    536657331, --rockyATM 
+    2954301928, --Fuzelier 
+    1451267220, --MalachiTheSavage09 
+    4820588770, --icyythabratt 
+    1524843869, --k60f 
+    1396940578, --xy_nd
+    4243527652, --VolnyBlokk 
+    
     
   },
 }
